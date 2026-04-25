@@ -49,8 +49,7 @@ $env:ANTHROPIC_API_KEY = "sk-ant-..."
 Or create a `.streamlit/secrets.toml` file:
 
 ```toml
-ANTHROPIC_API_KEY = "sk-ant-..."
-```
+OPENROUTER_API_KEY="your_openrouter_api_key_here"```
 
 ### 4. Run the app
 
@@ -106,13 +105,6 @@ ATS Score = (Cosine Similarity × 0.5) + (Keyword Coverage × 0.5)
 
 ---
 
-## 🔑 Environment Variables
-
-| Variable | Required | Description |
-|---|---|---|
-| `ANTHROPIC_API_KEY` | ✅ Yes | Your Anthropic API key from [console.anthropic.com](https://console.anthropic.com) |
-
----
 
 ## 💡 Tips for Best Results
 
