@@ -24,8 +24,8 @@ A sleek, production-grade Streamlit app that analyzes your resume against any jo
 ### 1. Clone / download the project
 
 ```bash
-git clone https://github.com/your-username/ai-resume-analyzer.git
-cd ai-resume-analyzer
+[git clone https://github.com/your-username/ai-resume-analyzer.git
+](https://github.com/krutikakhenat9-pixel/ai-resume-analyzer.git)cd ai-resume-analyzer
 ```
 
 ### 2. Install dependencies
