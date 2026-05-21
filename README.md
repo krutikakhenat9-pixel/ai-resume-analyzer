@@ -120,4 +120,3 @@ MIT License — free to use and modify.
 
 ---
 
-> Built with ❤️ using Streamlit + Claude AI
